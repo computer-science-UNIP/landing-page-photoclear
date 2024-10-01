@@ -8,11 +8,13 @@
   padding: 10px 30px;
   border-radius: 50px;
   transition: 0.3s;
+  margin: 5px;
 }
 
 .header nav ul li a:hover {
   color: white;
   background-color: black;
+  margin: 0 10px;
 }
 
 /* RESPONSIVE */

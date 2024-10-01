@@ -125,6 +125,9 @@ body {
   /* separando o link do texto */
 }
 
+.titulo-sobre{
+  font-size: 16px;
+}
 .about .item .btn-know-more {
   font-size: 1.6rem;
   /* align-self: flex-start; nem precisava disso*/
@@ -238,6 +241,9 @@ body {
   .projects {
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 1fr 1fr;
+  }
+  .hero h2{
+    text-align: center;
   }
 }
 
